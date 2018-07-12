@@ -2,6 +2,8 @@
 
 Taki is a console-based single player arcade game, acknowledged by the Taki Foundation.
 
+It's only for Unix (Mac OS X and Linux) for now.
+
 ## Requirements
 * Python 3.6
 * xlib>=0.17
@@ -28,6 +30,8 @@ pip3 install taki
 ```
 
 ### Game Manual
+
+Run the command `taki` in terminal to play the game.
 
 Press _h_ (on keyboard) to get hard and _f_ to fire. Your score is the number of chicks you've fu\**ed. You can only fu\** a chick while hard (obviously lol).
 
