@@ -35,4 +35,6 @@ Run the command `taki` in terminal to play the game.
 
 Press _h_ (on keyboard) to get hard and _f_ to fire. Your score is the number of chicks you've fu\**ed. You can only fu\** a chick while hard (obviously lol).
 
+Colliding with a cactus will decrease your HP (hearts) and when it gets to zero you die!
+
 Press esc to quit.
